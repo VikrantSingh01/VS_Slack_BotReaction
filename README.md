@@ -2,6 +2,12 @@
 
 A Python Jupyter notebook that fetches available emoji from Slack and adds random emoji reactions to messages, with support for skin-tone modifiers.
 
+## 📸 Bot in Action
+
+![Bot Reaction in Slack](Bot_Reaction_in_Slack.png)
+
+*Example of the bot successfully adding a random emoji reaction to a Slack message*
+
 ## 📋 Features
 
 - 🔍 **Fetch Emoji**: Retrieves all available emoji from your Slack workspace
