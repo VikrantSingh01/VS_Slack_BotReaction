@@ -1,0 +1,18 @@
+{
+  "skin_tone_modifiers": {
+    "skin-tone-2": "🏻 Light skin tone",
+    "skin-tone-3": "🏼 Medium-light skin tone",
+    "skin-tone-4": "🏽 Medium skin tone",
+    "skin-tone-5": "🏾 Medium-dark skin tone",
+    "skin-tone-6": "🏿 Dark skin tone"
+  },
+  "usage_format": "base_emoji::skin-tone-X",
+  "available_tones": [
+    "skin-tone-2",
+    "skin-tone-3",
+    "skin-tone-4",
+    "skin-tone-5",
+    "skin-tone-6"
+  ],
+  "note": "Skin-tones are component emoji that modify other emoji. Not all emoji support skin-tone variants."
+}
