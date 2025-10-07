@@ -82,7 +82,7 @@ The notebook includes advanced skin-tone modifier support:
 ## 📁 Project Structure
 
 ```
-vik_reaction_sample/
+VS_SLACK_BOTREACTION/
 ├── SlackReactionTest.ipynb     # Main Jupyter notebook
 ├── .env                        # Environment configuration
 ├── emoji_list_raw.json         # Complete emoji data from Slack API
@@ -145,6 +145,9 @@ selected_emoji = pick_random_emoji(emoji_candidates, include_skin_tone=True)
 
 # Test reaction adding
 add_emoji_reaction(SLACK_CHANNEL_ID, SLACK_MESSAGE_TS, selected_emoji)
+
+# Deleting reaction
+
 ```
 
 ## 🤝 Contributing
