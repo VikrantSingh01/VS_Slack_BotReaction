@@ -12,5 +12,24 @@
     "slack_call",
     "simple_smile"
   ],
-  "count": 11
+  "count": 11,
+  "statistics": {
+    "total_emoji": 14,
+    "aliases_skipped": 3,
+    "invalid_skipped": 0,
+    "custom_emoji": 11,
+    "standard_emoji": 0
+  },
+  "sample_candidates": [
+    "bowtie",
+    "squirrel",
+    "glitch_crab",
+    "piggy",
+    "cubimal_chick",
+    "dusty_stick",
+    "slack",
+    "pride",
+    "thumbsup_all",
+    "slack_call"
+  ]
 }
