@@ -85,9 +85,9 @@ The notebook includes advanced skin-tone modifier support:
 VS_SLACK_BOTREACTION/
 ├── SlackReactionTest.ipynb     # Main Jupyter notebook
 ├── .env                        # Environment configuration
-├── emoji_list_raw.json         # Complete emoji data from Slack API
-├── emoji_candidates.json       # Filtered usable emoji list
-├── skin_tone_reference.json    # Skin-tone modifier reference
+├── emoji_list_raw.json         # Complete API response from emoji.list
+├── emoji_candidates.json       # Filtered list of usable emoji names
+├── skin_tone_reference.json    # Skin-tone modifier reference guide
 └── README.md                   # This file
 ```
 
